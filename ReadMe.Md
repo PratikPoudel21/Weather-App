@@ -1,0 +1,1 @@
+This is a simple python project I created for fun. I used tkinter for the UI, request to fetch data from the API. It's not the final project. There are many I can work on to improve it, for example the UI. I really enjoyed in this project and I got to learn many things from it.
